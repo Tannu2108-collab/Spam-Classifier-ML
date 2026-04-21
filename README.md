@@ -1,17 +1,17 @@
-# Spam Email Classifier
+
+# Spam Email Classifier using Logistic Regression
 
 ## Objective
-Classify emails as spam or non-spam using Logistic Regression.
+To classify emails as spam or non-spam using machine learning.
 
 ## Techniques Used
 - Logistic Regression
 - Label Encoding
-- TF-IDF
+- TF-IDF Vectorization
 - K-Fold Cross Validation
 
-## Files
-- spam_classifier.py → main code
-- spam.csv → dataset
+## Dataset
+Spam dataset (spam.csv) containing labeled email messages.
 
-## Output
-Model gives average accuracy using cross-validation.
+## Result
+Model evaluated using 5-Fold Cross Validation with high accuracy.
