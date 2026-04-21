@@ -15,3 +15,6 @@ Spam dataset (spam.csv) containing labeled email messages.
 
 ## Result
 Model evaluated using 5-Fold Cross Validation with high accuracy.
+
+## Author
+Tannu Priya
